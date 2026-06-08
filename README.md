@@ -18,7 +18,7 @@ specializing in extracting, cleaning, and transforming complex datasets into act
 ---
 ### Education
 * **B.Sc. in Physics**
-* Strong problem-solving capabilities and analytical skills that seamlessly translate into data modeling and business analytics.*
+* Strong problem-solving capabilities and analytical skills that seamlessly translate into data modeling and business analytics.
 ---
 ### Connect with me
 * **Email:** mohinijaybhaye04@gmail.com
