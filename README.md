@@ -6,8 +6,8 @@ specializing in extracting, cleaning, and transforming complex datasets into act
 ---
 ### Technical Skills & Toolkit
 * **Database Management:** SQL Server (SSMS) | Joins, Window Functions, CTEs, Group By & Aggregation, Views
-* **Data Visualization:** Power BI | Star Schema Data Modeling, DAX ('SUM', 'SUMX', 'CALCULATE', 'FILTER', 'IF'), Interactive Executive Dashboards
-* **Advanced Reporting:** Microsoft Excel | VLOOKUP, XLOOKUP, INDEX-MATCH, Pivot Tables & Charts, Power Query
+* **Data Visualization:** Power BI | Power Query, Star Schema Data Modeling, DAX ('SUM', 'SUMX', 'CALCULATE', 'FILTER', 'DISTINCTCOUNT', 'IF', 'SWITCH'), Slicer, Filter, Interactive Executive Dashboards
+* **Advanced Reporting:** Microsoft Excel | VLOOKUP, XLOOKUP, INDEX-MATCH, Pivot Tables & Charts, Conditional Formating, Power Query
 * **Analytical Capabilities:** Data Cleaning & Wrangling, Telecom KPI Tracking, Trend Analysis, Business Acumen
 ---
 ### Featured Portfolio Project
