@@ -1,5 +1,5 @@
 # Hi, I'm Mohini Jaybhaye!
-**Data & Reporting Analyst**
+**Data Reporting Analyst**
 A detail-oriented data professional with a strong logical and analytical foundation backed by a **B.Sc. in Physics**.Successfully transitioned into the data domain,
 specializing in extracting, cleaning, and transforming complex datasets into actionable business insights. Passionate about automating reporting workflows and tracking metrics within the telecom sector.
 
