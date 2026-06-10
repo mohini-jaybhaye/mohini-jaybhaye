@@ -6,9 +6,9 @@ specializing in extracting, cleaning, and transforming complex datasets into act
 ---
 ### Technical Skills & Toolkit
 * **Database Management:** SQL Server (SSMS) | Joins, Window Functions, CTEs, Group By & Aggregation, Views
-* **Data Visualization:** Power BI | Power Query, Star Schema Data Modeling, DAX (SUM, SUMX, CALCULATE, FILTER, DISTINCTCOUNT, IF, SWITCH), Measures and Calculated Columns, Slicer, Filter, Interactive Executive Dashboards
-* **Advanced Reporting:** Microsoft Excel | VLOOKUP, XLOOKUP, INDEX-MATCH, Pivot Tables & Charts, Conditional Formatting, Power Query
-* **Analytical Capabilities:** Data Cleaning & Wrangling, Telecom KPI Tracking, Trend Analysis, Business Acumen
+* **Data Visualization:** Power BI | Power Query, Star Schema Data Modeling, DAX Functions, Measures and Calculated Columns, Slicer, Filter, Interactive Executive Dashboards
+* **Advanced Reporting:** Microsoft Excel | VLOOKUP, XLOOKUP, INDEX-MATCH, Pivot Tables, Conditional Formatting, Power Query
+* **Analytical Capabilities:** Data Cleaning & Wrangling, Telecom KPI Tracking, Trend Analysis, Analytical Thinking, Data Literacy, Business Acumen
 ---
 ### Featured Portfolio Project
 #### [Telecom Revenue and Customer Churn Analysis](https://github.com/mohini-jaybhaye/telecom-revenue-and-customer-churn-analysis)
