@@ -21,4 +21,4 @@ specializing in extracting, cleaning, and transforming complex datasets into act
 * Strong problem-solving capabilities and analytical skills that seamlessly translate into data modeling and business analytics.
 ---
 ### Connect with me
-* **Email:** jaybhayemohini04@gmail.com
+* **Email:** mohinijaybhaye04@gmail.com
