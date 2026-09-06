@@ -22,4 +22,4 @@ specializing in extracting, cleaning, and transforming complex datasets into act
 ---
 ### Connect with me
 * **Email:** mohinijaybhaye04@gmail.com
-* **LinkedIn:** www.linkedin.com/in/mohini-jaybhaye-96202942a
+* **LinkedIn:** www.linkedin.com/in/mohini-jaybhaye
