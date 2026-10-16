@@ -36,11 +36,11 @@ Developed a 4-page interactive Power BI dashboard using 10K IT helpdesk incident
 Analyzed 5K telecom customer records using SQL Server and Power BI to understand revenue performance, ARPU, customer activity and churn behavior. Performed data cleaning and validation, created SQL views using joins and CTEs, developed inactivity-based churn identification logic and built a 2-page interactive dashboard to identify high-churn segments and support retention analysis.
 
 **Key Highlights:**
-Total Revenue: 10.48M
-ARPU: 2.10K
-Customer Churn Rate: 31.98%
-Revenue associated with churned customers: 2.99M
-Analyzed regional, customer-segment and recharge-frequency churn patterns
+-Total Revenue: 10.48M
+-ARPU: 2.10K
+-Customer Churn Rate: 31.98%
+-Revenue associated with churned customers: 2.99M
+-Analyzed regional, customer-segment and recharge-frequency churn patterns
 
 Tools: SQL Server, SSMS, Power BI, DAX, Data Modeling
 
