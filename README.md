@@ -1,21 +1,24 @@
 # Hi, I'm Mohini Jaybhaye!
-**Data and Reporting Analyst**
-A detail-oriented data professional with a strong logical and analytical foundation backed by a **B.Sc. in Physics**. Successfully transitioned into the data domain,
-specializing in extracting, cleaning, and transforming complex datasets into actionable business insights. Passionate about automating reporting workflows,optimizing data pipelines, and identifying performance drivers to enable data-driven decision-making across diverse business functions.
+**Entry-level MIS & Reporting Analyst | Data Analyst**
+Entry-level MIS & Reporting Analyst with hands-on project experience in SQL Server, Power BI, DAX, Power Query and Advanced Excel. Skilled in data cleaning, data modeling, KPI reporting, trend analysis and root-cause analysis. Built two end-to-end analytics projects covering 10K IT helpdesk tickets and 5K telecom customer records, with interactive dashboards for SLA performance, backlog analysis, revenue trends and customer churn. Seeking opportunities in MIS & Reporting, Data Analytics, Business Intelligence and Operations Analytics.
 
 ---
-### Technical Skills & Toolkit
-* **Database Management:** SQL Server (SSMS) | Joins, Window Functions, CTEs, Group By & Aggregation, Views
-* **Data Visualization:** Power BI | Power Query, Star Schema Data Modeling, DAX Functions, Measures and Calculated Columns, Slicer, Filter, Interactive Executive Dashboards
-* **Advanced Reporting:** Microsoft Excel | VLOOKUP, XLOOKUP, Pivot Tables, Conditional Formatting, Power Query
-* **Analytical Capabilities:** Data Cleaning & Wrangling, Telecom KPI Tracking, Trend Analysis, Analytical Thinking, Data Literacy, Business Acumen
+### Technical Skills & Tools
+**Database & SQL:** Microsoft SQL Server, SSMS, Joins, GROUP BY, Aggregate Functions, CTEs, Subqueries, Window Functions, Views, Data Cleaning, Data Validation
+**Power BI & Data Visualization:** Power BI, Power Query, Data Modeling, Star Schema, DAX, KPI Dashboards, Interactive Reports, Slicers & Filters, Drill-through, Row-Level Security (RLS)
+**Analytics & Reporting:** Data Analysis, EDA, Business Intelligence, KPI Analysis, Trend Analysis, Root Cause Analysis, Performance Analysis, Exception Analysis, MIS Reporting, Business Reporting, Operational Reporting, Management Reporting
+**Microsoft Excel:** Advanced Excel, XLOOKUP, VLOOKUP, INDEX-MATCH, Pivot Tables, Pivot Charts, Data Validation, Ad Hoc Analysis
+
 ---
 ### Featured Portfolio Project
+
+#### [IT Helpdesk Incident and SLA Performance Analysis](
+
+
+
+
 #### [Telecom Revenue and Customer Churn Analysis](https://github.com/mohini-jaybhaye/telecom-revenue-and-customer-churn-analysis)
-* **Objective:** Analyzed monthly revenue trends, ARPU (Average Revenue Per User), and customer churn behavior for a telecom dataset to support targeted marketing campaigns.
-*  **Tech Stack:** SQL Server (for data cleaning and build complex churn logic) + Power BI (for analytical data modeling and interactive executive dashboard)
-*  **Key Deliverable:** Built a high-performance, 2-page dynamic executive dashboard featuring structured cross-filtering and automated KPI metrics.
----
+
 ### Education
 * **B.Sc. in Physics**
 * Strong problem-solving capabilities and analytical skills that seamlessly translate into data modeling and business analytics.
