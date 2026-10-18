@@ -5,11 +5,11 @@ Entry-level MIS & Reporting Analyst with hands-on project experience in SQL, Pow
 
 ---
 ### Technical Skills & Tools
-**Database & SQL:** Microsoft SQL Server, SSMS, Joins, GROUP BY, Aggregate Functions, CTEs, Subqueries, Window Functions, Views, Data Cleaning, Data Validation
+**Database & SQL:** SQL, Microsoft SQL Server, SSMS, Joins, GROUP BY, Aggregate Functions, CTEs, Subqueries, Window Functions, Views, Data Cleaning, Data Validation
 
-**Power BI & Data Visualization:** Power BI, Power Query, Data Modeling, Star Schema, DAX, KPI Dashboards, Interactive Reports, Slicers & Filters, Drill-through, Row-Level Security (RLS)
+**Power BI & Data Visualization:** Power BI, Power Query, Data Modeling, Star Schema, DAX, KPI Dashboards, Interactive Reports, Conditional Formatting, Slicers & Filters, Drill-through, Row-Level Security (RLS)
 
-**Analytics & Reporting:** Data Analysis, EDA, Business Intelligence, KPI Analysis, Trend Analysis, Root Cause Analysis, Performance Analysis, Exception Analysis, MIS Reporting, Business Reporting, Operational Reporting, Management Reporting
+**Analytics & Reporting:** Data Analysis, EDA, Business Intelligence, KPI Analysis, Trend Analysis, Root Cause Analysis, Performance Analysis, Exception Analysis, MIS Reporting, Business Reporting, Operational Reporting
 
 **Microsoft Excel:** Advanced Excel, XLOOKUP, VLOOKUP, INDEX-MATCH, Pivot Tables, Pivot Charts, Data Validation, Ad Hoc Analysis
 
