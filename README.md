@@ -16,7 +16,7 @@ Data Analyst with hands-on expertise in SQL, Power BI, DAX, Power Query and Adva
 ---
 ## Featured Portfolio Project
 
-### 1. IT Helpdesk Incident & SLA Performance Analysis
+### 1. Operational SLA & Backlog Performance Analytics
 
 Developed a 4-page interactive Power BI dashboard using 10K IT helpdesk incident tickets to analyze SLA compliance, resolution efficiency, backlog ageing, escalations, root causes and team/engineer performance. Cleaned and transformed data using Power Query, built a Star Schema data model and created DAX calculated columns and measures to track key operational KPIs.
 
@@ -31,7 +31,7 @@ Developed a 4-page interactive Power BI dashboard using 10K IT helpdesk incident
 
  [View Project On GitHub](https://github.com/mohini-jaybhaye/IT-Helpdesk-Incident-SLA-Analysis)
 
-### 2. Telecom Revenue Performance & Customer Churn Analysis
+### 2. Revenue Growth & Customer Retention Analytics
 
 Analyzed 5K telecom customer records using SQL Server and Power BI to understand revenue performance, ARPU, customer activity and churn behavior. Performed data cleaning and validation, created SQL views using joins and CTEs, developed inactivity-based churn identification logic and built a 2-page interactive dashboard to identify high-churn segments and support retention analysis.
 
